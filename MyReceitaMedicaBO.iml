@@ -19,7 +19,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../MyEnderecoServicos/out/artifacts/MyEnderecoServicos_jar/MyEnderecoServicos.jar!/" />
+          <root url="jar://$MODULE_DIR$/../MyAddressBO/out/artifacts/MyEnderecoBO_jar/MyEnderecoBO.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
