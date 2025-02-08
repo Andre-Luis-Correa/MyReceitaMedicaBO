@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MyReceitaMedicaBO:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MyReceitaMedicaBO_jar</output-path>
+    <root id="archive" name="MyReceitaMedicaBO.jar">
+      <element id="module-output" name="MyReceitaMedicaBO" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../MyEnderecoServicos/out/artifacts/MyEnderecoServicos_jar/MyEnderecoServicos.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../MyPersonBO/out/artifacts/MyPessoaBO_jar/MyPessoaBO.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
